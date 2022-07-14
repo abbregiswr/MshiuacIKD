@@ -13,9 +13,6 @@
     "init.tips",
     "next.js",
     "t3-stack",
-    "tailwind",
-    "tRPC",
-    "typescript"
   ],
   "type": "module",
   "exports": "./dist/index.js",
